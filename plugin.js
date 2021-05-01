@@ -1,9 +1,3 @@
-const fs = require('fs')
-const md5 = require('md5')
-const mkdirp = require('mkdirp')
-const path = require('path')
-const fetch = require('node-fetch');
-
 class myplugin extends global.Plugin {
     constructor(root, manifest) {
         super(root, manifest)

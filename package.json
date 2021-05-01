@@ -1,0 +1,13 @@
+{
+  "name": "it.magius.gamedek.plugin.gamelib.scraper",
+  "version": "1.0.0",
+  "description": "Gamedek Scraper Module",
+  "main": "plugin.js",
+  "repository": "https://github.com/MagiusCHE/gamedek-plugin-gamelib-scraper.git",
+      "author": {
+        "name": "Magius(CHE)",
+        "email": "magiusche@magius.it"
+      },
+  "license": "GNU GPL",
+  "private": false
+}
